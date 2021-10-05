@@ -1,0 +1,4 @@
+---
+- name: Install install_packages
+  apt: name={{item}} state=present
+  with_items: "{{ install_packages}}"

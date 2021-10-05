@@ -1,0 +1,8 @@
+install_packages:
+        - net-tools
+        - tcpdump
+        - curl
+        - mlocate
+        - mtr
+        - screen
+        - wget
