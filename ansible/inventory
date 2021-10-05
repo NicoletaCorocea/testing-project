@@ -1,0 +1,7 @@
+[lab]
+127.0.0.1
+
+[lab:vars]
+ansible_user=studentvvss
+ansible_password=vvss
+
